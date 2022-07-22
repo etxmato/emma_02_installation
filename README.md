@@ -1,4 +1,4 @@
-# emma_02
+# emma_02_installation
 Emma 02 - RCA CDP 1802 Multi-system Emulator
 
 This repo houses the installation packages for my (Marcel van Tongeren) 'Emma 02' Emulator. I have worked on this emulator since 2007. The emulation core was based on the RCS Elf Emulator copyright (C) 2006 by Michael H Riley.
